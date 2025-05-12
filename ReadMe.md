@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a back-end student<br>💬 I'm an aspiring data scientist<br>🤝 I’m looking for an internship<br>⚡ I'm currently improving my skills in Python and MySQL<br>🤖 All my projects are available at https://github.com/HugoCDM<br>
+🔭 I’m a back-end student<br>💬 I'm an aspiring data scientist<br>⚡ I'm currently improving my skills in Python and MySQL<br>🤖 All my projects are available at https://github.com/HugoCDM<br>
 
 
 ## 🌐 Socials:
